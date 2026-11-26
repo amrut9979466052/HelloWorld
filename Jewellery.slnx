@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JewelleryLib/JewelleryLib.csproj" />
+  <Project Path="JewelleryWeb/JewelleryWeb.csproj" Id="1333668c-ade3-483c-b36d-00bf17ba1d63" />
+</Solution>
